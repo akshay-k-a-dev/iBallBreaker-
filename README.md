@@ -8,7 +8,7 @@ But fear not! I did what any sane person would do—**reverse-engineered the Win
 ---
 
 ## The Solution 🛠️
-We’re going to manually download, compile, and install the correct driver so Linux finally recognizes this Wi-Fi dongle. Let’s make Wi-Fi work again! 🔥
+We’re going to manually download, compile, and install the correct driver so Linux(Debian based ) finally recognizes this Wi-Fi dongle. Let’s make Wi-Fi work again! 🔥
 
 ---
 
